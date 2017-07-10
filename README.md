@@ -58,10 +58,10 @@ spam URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus Caller Prize 
 ## Results 
 The predictions are as follows:
 
-![Predictions using different classifiers](/predictions.png)
+![Predictions using different classifiers](predictions.png)
 
 The Wordclouds below show the most common words occuring in each of the categories:
 
-SPAM(/SPAM.png)
+SPAM(SPAM.png)
 
-NOT SPAM(/NOT\ SPAM.png)
+NOT SPAM(NOT\ SPAM.png)
