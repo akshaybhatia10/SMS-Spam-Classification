@@ -60,6 +60,15 @@ The predictions are as follows:
 
 ![Predictions using different classifiers](predictions.png)
 
+- [SVC](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [KN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [NB](https://en.wikipedia.org/wiki/Naive_Bayes_classifier#Multinomial_naive_Bayes)
+- [LR](https://en.wikipedia.org/wiki/Logistic_regression)
+- [RF](https://en.wikipedia.org/wiki/Random_forest)
+- [DT](https://en.wikipedia.org/wiki/Decision_tree_learning)
+
+
+
 The Wordclouds below show the most common words occuring in each of the categories:
 
 SPAM
