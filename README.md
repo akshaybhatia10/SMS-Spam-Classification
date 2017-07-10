@@ -62,6 +62,8 @@ The predictions are as follows:
 
 The Wordclouds below show the most common words occuring in each of the categories:
 
-SPAM(SPAM.png)
+SPAM
+![SPAM Messages](SPAM.png)
 
-NOT SPAM(NOT\ SPAM.png)
+NOT SPAM
+![NOT SPAM Messages](NOT\ SPAM.png)
