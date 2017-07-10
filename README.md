@@ -66,4 +66,4 @@ SPAM
 ![SPAM Messages](SPAM.png)
 
 NOT SPAM
-![NOT SPAM Messages](NOT\ SPAM.png)
+![NOT SPAM Messages](NOT SPAM.png)
