@@ -1,10 +1,38 @@
 # SMS-Spam-Classification
 
-## Classifying messages as SPAM or NOT SPAM
-
 ### About
 
+We try to classify SMS messages as SPAM or NOT SPAM using various ML algorithms. The notebook consists steps to process and explore the dataset, convert messages to vectors and applying ML techniques for the same.
 
+### Install
+
+This project requires **Python 3** and the following Python libraries installed:
+
+- [xgboost](xgboost.readthedocs.io/en/latest/build.html)
+- [wordcloud](https://github.com/amueller/word_cloud)
+- [sklearn](scikit-learn.org/)
+- [pandas](https://pandas.org/)
+- [nltk](https://nltk.org/)
+- [Matplotlib](https://matplotlib.org/)
+
+Make sure you have [Jupyter Notebook](http://ipython.org/notebook.html) installed.
+
+You could just install [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook spam_classifier.ipynb
+```  
+or
+```bash
+jupyter notebook spam_classifier.ipynb
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
 
 ### Dataset
 
@@ -28,6 +56,12 @@ spam URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus Caller Prize 
 ```
 
 ## Results 
-
 The predictions are as follows:
+
 ![Predictions using different classifiers](/predictions.png)
+
+The Wordclouds below show the most common words occuring in each of the categories:
+
+SPAM(/SPAM.png)
+
+NOT SPAM(/NOT\ SPAM.png)
