@@ -2,7 +2,9 @@
 
 ### About
 
-We try to classify SMS messages as SPAM or NOT SPAM using various ML algorithms. The notebook consists steps to process and explore the dataset, convert messages to vectors and applying ML techniques for the same.
+We try to classify SMS messages as SPAM or NOT SPAM using various ML algorithms. The notebook (spam_classifier.ipynb)consists steps to process and explore the dataset, convert messages to vectors and applying ML techniques for the same.
+
+The notebook(spam_classifier_rnn.ipynb) uses a Recurrent Neural Network (RNN) and LSTM to classify the messages. RNNs are networks with loops in them, allowing information from previous time step to persist capable of handling long-term dependencies.
 
 ### Install
 
@@ -79,3 +81,5 @@ SPAM
 NOT SPAM
 
 ![NOT SPAM Messages](NOT&#32;SPAM.png)
+
+###### Validation accuracy using RNN is 81% and Test accuracy is 79%
