@@ -58,7 +58,7 @@ spam URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus Caller Prize 
 ```
 
 ## Results 
-The predictions are as follows:
+The predictions(accuracy scores) using various ML algorithms are as follows:
 
 ![Predictions using different classifiers](predictions.png)
 
